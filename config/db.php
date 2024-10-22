@@ -1,7 +1,7 @@
 <?php
 // db.php
 $host = 'localhost';
-$db_name = 'your_database_name';
+$db_name = 'userauth';
 $username = 'root'; // or your DB username
 $password = ''; // or your DB password
 
